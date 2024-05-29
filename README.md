@@ -1,2 +1,1 @@
-# gpt-developlement-tool
-# gpt-developlement-tool
+# gpt-stories
