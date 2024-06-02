@@ -2,7 +2,7 @@
 # gpt-stories
 
 ## Description
-GPT-Stories is a project that generates stories based on user input. It utilizes GPT (Generative Pre-trained Transformer) models to create narratives. After generating the stories, it provides the user with a UML (Unified Modeling Language) diagram. Additionally, it offers the backend code, frontend code, unittest cases, and end-to-end test cases based on the user's input.
+GPT-development tool is a project that generates stories based on user input. It utilizes GPT (Generative Pre-trained Transformer) models to create narratives. After generating the stories, it provides the user with a UML (Unified Modeling Language) diagram. Additionally, it offers the backend code, frontend code, unittest cases, and end-to-end test cases based on the user's input.
 
 
 ## Tech Stack
