@@ -20,7 +20,7 @@ Before you start, ensure you have install following requirements:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/html5technologies786/gpt-stories.git
+git clone https://github.com/GPT-Laboratory/gpt-developlement-tool
 ```
 
 ## Flask Setup:
